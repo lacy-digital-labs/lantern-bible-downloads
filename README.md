@@ -47,7 +47,7 @@ material prepared for this edition are dedicated to the public domain under
 modify and redistribute this work, in whole or in part, for any purpose,
 without permission and without attribution.
 
-CC0 waives copyright and neighbouring rights. **It does not grant any rights in
+CC0 waives copyright and related rights. **It does not grant any rights in
 the name "The Lantern Bible", in "Lacy Digital Labs", or in any associated
 marks.** Copy and redistribute the work freely; publishing a different text
 under this name would misdescribe it.
