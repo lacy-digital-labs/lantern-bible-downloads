@@ -33,12 +33,16 @@ automatically when the build repository tags a version.
 | **Reference** | The standard edition plus the topical index as a back-matter section. |
 | **Reader's** | Footnotes, book outlines and the parenthesised cross-reference lists removed, for continuous reading rather than lookup. Section headings stay, set italic rather than bold; poetic indentation is kept. |
 
+In every edition the words of Christ are set in a dark blue — a dark gray
+on a grayscale screen — following the markings the Berean Standard Bible's
+translators made in their own text. The text itself is unaltered.
+
 ## ePub
 
 | File | Edition | Size |
 | --- | --- | --- |
 | `lantern-bible.epub` | Standard | 3.18 MB |
-| `lantern-bible-reference.epub` | Reference | 5.09 MB |
+| `lantern-bible-reference.epub` | Reference | 5.10 MB |
 | `lantern-bible-reader.epub` | Reader's | 2.67 MB |
 
 Every link is internal and every verse anchor resolves; the ePubs reflow to any
