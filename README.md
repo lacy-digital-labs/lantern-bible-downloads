@@ -56,16 +56,16 @@ to PDF on load discards both.
 
 | File | Edition | Page size | Layout | Pages |
 | --- | --- | --- | --- | --- |
-| `lantern-compact-1col.pdf` | Standard | 105 × 140 mm | Single Column | 3,291 |
-| `lantern-tablet-1col.pdf` | Standard | 148 × 210 mm | Single Column | 1,782 |
-| `lantern-tablet-2col.pdf` | Standard | 148 × 210 mm | Two Column | 1,338 |
-| `lantern-tablet-note.pdf` | Standard | 148 × 210 mm | Annotation Margin | 2,124 |
-| `lantern-tabloid-1col.pdf` | Standard | 179 × 265 mm | Single Column | 1,305 |
-| `lantern-tabloid-2col.pdf` | Standard | 179 × 265 mm | Two Column | 928 |
-| `lantern-tabloid-note.pdf` | Standard | 179 × 265 mm | Annotation Margin | 1,508 |
-| `lantern-tablet-2col-reference.pdf` | Reference | 148 × 210 mm | Two Column | 2,088 |
-| `lantern-tabloid-2col-reference.pdf` | Reference | 179 × 265 mm | Two Column | 1,420 |
-| `lantern-compact-1col-reader.pdf` | Reader's | 105 × 140 mm | Single Column | 2,711 |
+| `lantern-compact-1col.pdf` | Standard | 105 × 140 mm | Single Column | 3,281 |
+| `lantern-tablet-1col.pdf` | Standard | 148 × 210 mm | Single Column | 1,774 |
+| `lantern-tablet-2col.pdf` | Standard | 148 × 210 mm | Two Column | 1,332 |
+| `lantern-tablet-note.pdf` | Standard | 148 × 210 mm | Annotation Margin | 2,115 |
+| `lantern-tabloid-1col.pdf` | Standard | 179 × 265 mm | Single Column | 1,297 |
+| `lantern-tabloid-2col.pdf` | Standard | 179 × 265 mm | Two Column | 925 |
+| `lantern-tabloid-note.pdf` | Standard | 179 × 265 mm | Annotation Margin | 1,500 |
+| `lantern-tablet-2col-reference.pdf` | Reference | 148 × 210 mm | Two Column | 2,082 |
+| `lantern-tabloid-2col-reference.pdf` | Reference | 179 × 265 mm | Two Column | 1,417 |
+| `lantern-compact-1col-reader.pdf` | Reader's | 105 × 140 mm | Single Column | 2,704 |
 
 Each page size is cut to the *smallest* screen in its class, so every device in
 that class scales the page up rather than down and the type never renders
