@@ -56,13 +56,13 @@ to PDF on load discards both.
 
 | File | Edition | Page size | Layout | Pages |
 | --- | --- | --- | --- | --- |
-| `lantern-compact-1col.pdf` | Standard | 105 × 140 mm | Single Column | 3,282 |
+| `lantern-compact-1col.pdf` | Standard | 105 × 140 mm | Single Column | 3,283 |
 | `lantern-tablet-1col.pdf` | Standard | 148 × 210 mm | Single Column | 1,773 |
 | `lantern-tablet-2col.pdf` | Standard | 148 × 210 mm | Two Column | 1,332 |
 | `lantern-tablet-note.pdf` | Standard | 148 × 210 mm | Annotation Margin | 2,115 |
 | `lantern-tabloid-1col.pdf` | Standard | 179 × 265 mm | Single Column | 1,297 |
 | `lantern-tabloid-2col.pdf` | Standard | 179 × 265 mm | Two Column | 925 |
-| `lantern-tabloid-note.pdf` | Standard | 179 × 265 mm | Annotation Margin | 1,501 |
+| `lantern-tabloid-note.pdf` | Standard | 179 × 265 mm | Annotation Margin | 1,502 |
 | `lantern-tablet-2col-reference.pdf` | Reference | 148 × 210 mm | Two Column | 2,082 |
 | `lantern-tabloid-2col-reference.pdf` | Reference | 179 × 265 mm | Two Column | 1,417 |
 | `lantern-compact-1col-reader.pdf` | Reader's | 105 × 140 mm | Single Column | 2,704 |
